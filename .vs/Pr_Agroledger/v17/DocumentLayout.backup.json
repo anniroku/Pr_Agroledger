@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|c:\\users\\daniel.avellaneda\\desktop\\pr_agroledger\\pr_agroledger\\ventas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|solutionrelative:pr_agroledger\\ventas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|c:\\users\\daniel.avellaneda\\desktop\\pr_agroledger\\pr_agroledger\\clientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|solutionrelative:pr_agroledger\\clientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ventas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\ventas.aspx.cs",
+              "RelativeDocumentMoniker": "Pr_Agroledger\\ventas.aspx.cs",
+              "ToolTip": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\ventas.aspx.cs",
+              "RelativeToolTip": "Pr_Agroledger\\ventas.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:55:54.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "clientes.aspx",
               "DocumentMoniker": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\clientes.aspx",
               "RelativeDocumentMoniker": "Pr_Agroledger\\clientes.aspx",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "clientes.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\clientes.aspx.designer.cs",
               "RelativeDocumentMoniker": "Pr_Agroledger\\clientes.aspx.designer.cs",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "clientes.aspx.cs",
               "DocumentMoniker": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\clientes.aspx.cs",
               "RelativeDocumentMoniker": "Pr_Agroledger\\clientes.aspx.cs",
@@ -77,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Pr_Agroledger\\Login.aspx.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\Web.config",
               "RelativeDocumentMoniker": "Pr_Agroledger\\Web.config",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\Login.aspx",
               "RelativeDocumentMoniker": "Pr_Agroledger\\Login.aspx",

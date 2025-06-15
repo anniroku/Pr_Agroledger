@@ -16,6 +16,12 @@ namespace Pr_Agroledger
             }
         }
 
+
+
+
+
+
+
         private void CargarRoles()
         {
             string connStr = ConfigurationManager.ConnectionStrings["MySqlConnection"].ConnectionString;
@@ -42,6 +48,9 @@ namespace Pr_Agroledger
                 }
             }
         }
+
+
+
 
         protected void btnEntrar_Click(object sender, EventArgs e)
         {
