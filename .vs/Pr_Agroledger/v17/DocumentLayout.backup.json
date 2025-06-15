@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|c:\\users\\daniel.avellaneda\\desktop\\pr_agroledger\\pr_agroledger\\clientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|solutionrelative:pr_agroledger\\clientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|c:\\users\\daniel.avellaneda\\desktop\\pr_agroledger\\pr_agroledger\\clientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|solutionrelative:pr_agroledger\\clientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|c:\\users\\daniel.avellaneda\\desktop\\pr_agroledger\\pr_agroledger\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|solutionrelative:pr_agroledger\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|c:\\users\\daniel.avellaneda\\desktop\\pr_agroledger\\pr_agroledger\\clientes.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|solutionrelative:pr_agroledger\\clientes.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|c:\\users\\daniel.avellaneda\\desktop\\pr_agroledger\\pr_agroledger\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|solutionrelative:pr_agroledger\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|c:\\users\\daniel.avellaneda\\desktop\\pr_agroledger\\pr_agroledger\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{13650B6F-34F1-42D3-A3A5-99523EB1F8F8}|Pr_Agroledger\\Pr_Agroledger.csproj|solutionrelative:pr_agroledger\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clientes.aspx",
+              "DocumentMoniker": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\clientes.aspx",
+              "RelativeDocumentMoniker": "Pr_Agroledger\\clientes.aspx",
+              "ToolTip": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\clientes.aspx",
+              "RelativeToolTip": "Pr_Agroledger\\clientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-15T20:54:30.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clientes.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\clientes.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Pr_Agroledger\\clientes.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\clientes.aspx.designer.cs",
+              "RelativeToolTip": "Pr_Agroledger\\clientes.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:52:12.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clientes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\clientes.aspx.cs",
+              "RelativeDocumentMoniker": "Pr_Agroledger\\clientes.aspx.cs",
+              "ToolTip": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\clientes.aspx.cs",
+              "RelativeToolTip": "Pr_Agroledger\\clientes.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:47:21.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Pr_Agroledger\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\Login.aspx.cs",
+              "RelativeToolTip": "Pr_Agroledger\\Login.aspx.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA8wEgAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:54:13.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\Web.config",
+              "RelativeDocumentMoniker": "Pr_Agroledger\\Web.config",
+              "ToolTip": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\Web.config",
+              "RelativeToolTip": "Pr_Agroledger\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-15T19:45:30.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\Login.aspx",
+              "RelativeDocumentMoniker": "Pr_Agroledger\\Login.aspx",
+              "ToolTip": "C:\\Users\\daniel.avellaneda\\Desktop\\Pr_Agroledger\\Pr_Agroledger\\Login.aspx",
+              "RelativeToolTip": "Pr_Agroledger\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-15T19:12:25.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
